@@ -1,0 +1,47 @@
+body{
+    background-color: #1B98F5;
+}
+.container{
+    height: 500px;
+    width: 40%;
+    padding-top: 20px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 15px;
+    background-color: white;
+    border-width: 10px;
+    padding-left: 10px;
+}
+.container h1{
+    text-align: center;
+}
+.clock{
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.select{
+    width: 30%;
+    height: 45px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    text-align: center;
+    margin-right: 10px;
+}
+.options{
+    text-align: center;
+    margin-top: 40px;
+}
+.setButton{
+    margin-top: 50px;
+    margin-left: 30%;
+    width: 40%;
+    height: 10%;
+    border-radius: 10px;
+    border-width: none;
+    border-color: white;
+    background-color: #1B98F5;
+    color: white;
+    font-weight: bold;
+}
+
